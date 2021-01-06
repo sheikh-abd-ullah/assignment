@@ -1,0 +1,139 @@
+.box1{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+}
+.box2{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	position: relative;
+	left: 200px
+}.box3{
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+	position: relative;
+	left: 400px;
+	bottom: 400px;
+}.box4{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	left: 600px;
+	bottom: 400px;
+}.box5{
+	height: 200px;
+	width: 200px;
+	background-color: orange;
+	position: relative;
+	left: 800px;
+	bottom: 800px;
+}
+
+.section{
+	
+	width: 100%;
+	background-color: gray;
+	position: relative;
+	height: 170vh;
+	bottom: 610px;
+}
+.box6{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+}.box7{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	left: 200px;
+}.box8{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	left: 400px;
+}.box9{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	left: 200px;
+}.box10{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+}.box11{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	bottom: 1000px;
+	left: 800px;
+}.box12{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	bottom: 1000px;
+	left: 600px;
+}.box13{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	bottom: 800px;
+	left: 600px;
+}.box15{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	position: relative;
+	bottom: 800px;
+	left: 800px;
+}
+.section1{
+	background-color: black;
+	width: 100%;
+}
+.logo{
+	font-size: 20px;
+	color: white;
+	margin-right: 10px;
+	display: inline;
+
+}
+.home{
+	font-size: 20px;
+	color: white;
+	margin-right: 10px;
+	display: inline;
+	right: 5px;
+}
+.about{
+	font-size: 20px;
+	margin: right: 20px;
+	color: white;
+	display: inline;
+	right: 50px;
+	
+}
+.contact{
+	margin-left: 10px;
+	transition-timing-function: 0.1s;
+	font-size: 20px;
+	color: white;
+	display: inline;
+	right: 20px;
+}
+.ue{
+	height: 200px;
+	width: 200px
+}
+.shape{
+	text-align: center;
+	font-size: 30px
+}
